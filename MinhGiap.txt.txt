@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 R U ready???
 Ok Let's go!!!
 123
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+=======
+R U ready???
+>>>>>>> parent of fca8f43... 123
